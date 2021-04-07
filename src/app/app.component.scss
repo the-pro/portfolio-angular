@@ -1,0 +1,27 @@
+#body{
+    position: relative;
+    width: 50%;
+    // left:25%;
+    margin-left: 10%;
+    float: left;
+}
+#wh{
+    background-color: rgb(243, 241, 239);
+    position: relative;
+    height:150%;
+}
+#about{
+    float:left;
+    width: 20%;
+    margin-left: 10%;
+}
+a{
+    text-decoration: none;
+}
+app-root{
+    background-color: rgb(243, 241, 239);
+}
+.full-width{
+    position:relative;
+    width: 100%;
+}
